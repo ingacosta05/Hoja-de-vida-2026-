@@ -19,9 +19,9 @@ public class DatosHojaVida {
     private String perfil = "Estudiante de Ingenieria Informatica de la Unimayor";
     private String experiencia = "2024-2025\n[Estudiante Ing. Informatica] - [Unimayor]\n[Popayán]";
     //--------------------------------------------------------------------------//
-    private String educacion = "2020-2025\n[Carrera] - [Universidad]\n[Ciudad]";
+    private String educacion = "2020-2025\n[Ingenieria Informatica] - [Colegio Mayor Del Cauca]\n[Popayán]";
     private String[] areasInteres = {"Estructura de Datos", "Algoritmos", "Ingeniería de Software"};
-    private String proyectos = "• [Nombre del proyecto] - [Breve descripción]";
+    private String proyectos = "• [Hoja de vida] - [Se trata de mi  hoja de vida]";
     // =================================================
 
     public String getNombre() { return nombre; }
